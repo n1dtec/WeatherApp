@@ -18,7 +18,7 @@ The Weather Data Service is a RESTful API application designed to register and q
 1. **Prerequisites**: Java JDK (version 8 or above) and Maven installed on your system.
 2. **Clone the repository in your IDE of choice**:
 ```markdown
-git clone https://github.com/yourusername/weather-api.git
+git clone https://github.com/n1dtec/WeatherApp.git
 cd weatherapp
 ```
 3. **Build the project**
